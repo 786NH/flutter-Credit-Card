@@ -1,4 +1,4 @@
-# liquid_swipe_example
+# Credit_Card_Example
 
 Demonstrates how to use the liquid_swipe plugin.
 
